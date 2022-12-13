@@ -3,6 +3,8 @@
 
 ## Installations
 
+Please install the following libraries from your home folder.  
+
 - Download python3, e.g., for mac https://www.python.org/downloads/macos/. I use Python 3.8. Remember to update your library path
         
         PATH='/Users/your_username/Library/Python/X.XX/bin/:'$PATH 
@@ -27,12 +29,12 @@
 
         pip install seaborn
 
-
 ## Data
 
 - Original data from: https://www.kaggle.com/datasets/abisheksudarshan/topic-modeling-for-research-articles
 - Data used in this repo is collected under the 'data' folder. Obtained via private correspondence 
 
-## Run the code 
+## Download and run the code 
 
+    git clone git@github.com:nicola-orlando/acaps-test.git 
     python3 nlp_model.py
