@@ -1,15 +1,30 @@
 # acaps-test
  Instructions for the ACAPS selection test 
 
-Installations
+## Installations
 
-- Download python3, e.g., for mac https://www.python.org/downloads/macos/. I use Python 3.8.
-- Download NLTK: 'pip install --user -U nltk'. I use 'nltk-3.7-py3-none-any.whl' 
-- Install scikitlearn TO DO 
-- Download matplotlib pip install matplotlib
-- Download Seaborn pip install seaborn
+- Download python3, e.g., for mac https://www.python.org/downloads/macos/. I use Python 3.8. Remember to update your library path
+        
+        PATH='/Users/your_username/Library/Python/X.XX/bin/:'$PATH 
 
-Data
+- Install Scikit-learn (https://scikit-learn.org/stable/install.html)
 
-- All data downloaded directly from kaggle: https://www.kaggle.com/datasets/abisheksudarshan/topic-modeling-for-research-articles
-- Copied under 'data'
+        pip install -U scikit-learn 
+
+- Install matplotlib (https://matplotlib.org/stable/users/installing/index.html)
+
+        pip install matplotlib
+
+- Install Seaborn (https://seaborn.pydata.org/installing.html)
+
+        pip install seaborn
+
+
+## Data
+
+- Original data from: https://www.kaggle.com/datasets/abisheksudarshan/topic-modeling-for-research-articles
+- Data used in this repo is collected under the 'data' folder. Obtained via private correspondence 
+
+## Run the code 
+
+    python3 nlp_model.py
