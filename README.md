@@ -7,6 +7,14 @@
         
         PATH='/Users/your_username/Library/Python/X.XX/bin/:'$PATH 
 
+- Pandas 
+
+        pip3 install pandas
+        
+- NumPy 
+
+        pip install numpy 
+
 - Install Scikit-learn (https://scikit-learn.org/stable/install.html)
 
         pip install -U scikit-learn 
