@@ -1,5 +1,6 @@
-# acaps-test
- Instructions for the ACAPS selection test 
+# Classification of research papers abstracts 
+
+ Exercise part of ACAPS selection test (2022) 
 
 ## Installations
 
