@@ -37,8 +37,8 @@ Please install the following libraries from your home folder.
 
 ## Download and run the code 
 
-    git clone git@github.com:nicola-orlando/acaps-test.git 
-    cd acaps-test
+    git clone git@github.com:nicola-orlando/papers-abstract-classification.git 
+    cd papers-abstract-classification
     python3 nlp_model.py
 
 ## Expected results 
