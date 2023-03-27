@@ -1,4 +1,4 @@
-# Classification of research papers abstracts 
+# Classification of research papers abstracts with a simple TF-IDF model  
 
  Exercise part of ACAPS selection test (2022) 
 
